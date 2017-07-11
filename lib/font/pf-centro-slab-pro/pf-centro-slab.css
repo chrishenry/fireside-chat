@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'pf-centro-slab-medium';
+    src: url('PFCentroSlabPro-Medium.otf');
+
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'pf-centro-slab-black';
+    src: url('PFCentroSlabPro-Black.otf');
+
+    font-weight: bold;
+    font-style: bold;
+}
